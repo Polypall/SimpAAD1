@@ -1,0 +1,7 @@
+{
+  "name": "SimpAAD - AI Powered CAD",
+  "description": "SimpAAD is a modern AI-driven CAD software that turns measurements, drawings, and voice commands into 3D printable models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
